@@ -1,0 +1,71 @@
+{
+    "fdr": [
+        {
+            "foto": "images/produk/fdr-sport.jpg",
+            "nama": "FDR Sport",
+            "size": "90/80-17",
+            "harga": "470.000",
+            "link": "https://www.tokopedia.com/fdrtire/fdr-tl-sport-mp-27-90-80-17-ban-motor-tubeless?extParam=whid%3D7920468"
+        },
+        {
+            "foto": "images/produk/fdr-matic.jpg",
+            "nama": "FDR Matic",
+            "size": "120/70-14",
+            "harga": "374.000",
+            "link": "https://www.tokopedia.com/fdrtire/fdr-tl-sport-zevo-120-70-14-ban-motor-tubeless?extParam=whid%3D7920468"
+        },
+        {
+            "foto": "images/produk/fdr-bebek.jpg",
+            "nama": "FDR Bebek",
+            "size": "100/80-17",
+            "harga": "357.000",
+            "link": "https://www.tokopedia.com/fdrtire/fdr-tl-genzi-100-80-17-ban-motor-tubeless?extParam=whid%3D7920468"
+        }
+    ],
+    "irc": [
+        {
+            "foto": "images/produk/irc-sport.jpg",
+            "nama": "IRC Sport",
+            "size": "90/80-17",
+            "harga": "485.000",
+            "link": "https://www.tokopedia.com/ircofficialstore/ban-motor-irc-90-80-17-m-c-46s-fasti-1-tubeless?extParam=whid%3D7644038"
+        },
+        {
+            "foto": "images/produk/irc-matic.jpg",
+            "nama": "IRC Matic",
+            "size": "100/80-14",
+            "harga": "295.000",
+            "link": "https://www.tokopedia.com/ircofficialstore/ban-depan-belakang-motor-irc-100-80-14-exato-nr88-tubeless-honda-pcx?extParam=ivf%3Dfalse"
+        },
+        {
+            "foto": "images/produk/irc-bebek.jpg",
+            "nama": "IRC Bebek",
+            "size": "140/70-17",
+            "harga": "687.000",
+            "link": "https://www.tokopedia.com/ircofficialstore/ban-belakang-motor-irc-140-70-17-m-c-66h-mbr-110-tubeless-r15?extParam=whid%3D7644038"
+        },
+        {
+            "foto": "images/produk/irc-trail.jpg",
+            "nama": "IRC Trail",
+            "size": "100/100-18",
+            "harga": "704.000",
+            "link": "https://www.tokopedia.com/ircofficialstore/ban-belakang-motor-irc-100-100-18-ix-09w-tubetype-kawasaki-new-klx?extParam=whid%3D7644038"
+        }
+    ],
+    "pirelli": [
+        {
+            "foto": "images/produk/pirelli-sport.jpg",
+            "nama": "Pirelli Sport",
+            "size": "150/60-17",
+            "harga": "904.500",
+            "link": "https://www.tokopedia.com/globalspeedsh/ban-pirelli-diablo-rosso-sport-150-60-ring-17-r?extParam=whid%3D10774055"
+        },
+        {
+            "foto": "images/produk/pirelli-matic.jpg",
+            "nama": "Pirelli Matic",
+            "size": "90/90-14",
+            "harga": "337.999",
+            "link": "https://www.tokopedia.com/globalspeedsh/ban-pirelli-diablo-rosso-sport-90-90-ring-14-r?extParam=whid%3D10774055"
+        }
+    ]
+}
